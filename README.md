@@ -42,4 +42,4 @@ HTML, CSS, and JavaScript.
 3. View in your browser
 
 ```bash
-git clone https://github.com/yourusername/practice-frontend.git
+https://github.com/Issac-Arun-V
